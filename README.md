@@ -4,7 +4,7 @@
 
 ## Credits
 
-> Credit to yario-o for jimmy [JimmySDK](https://gitlab.com/yario_o/jimmy/-/tree/master) (Java Native Interface)
+> Credit to yario-o for [JimmyJNI](https://gitlab.com/yario_o/jimmy/-/tree/master) (Java Native Interface)
 
 ## Note
 > The Autoclicker is broken i'm too lazy to fix
